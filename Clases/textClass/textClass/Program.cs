@@ -17,7 +17,7 @@ namespace textClass {
             //Console.WriteLine(secretWord.Length);
             for(int i=0;i < secretWord.Length;i++) 
                 {
-                tempWord += "";
+                tempWord += "*";
             }
             publicWord = tempWord;
             Console.WriteLine(publicWord);
