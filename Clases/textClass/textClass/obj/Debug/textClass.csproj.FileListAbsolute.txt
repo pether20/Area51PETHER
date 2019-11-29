@@ -1,0 +1,7 @@
+D:\prueba proyecto\textClass\textClass\bin\Debug\textClass.exe.config
+D:\prueba proyecto\textClass\textClass\bin\Debug\textClass.exe
+D:\prueba proyecto\textClass\textClass\bin\Debug\textClass.pdb
+D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.csprojAssemblyReference.cache
+D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.csproj.CoreCompileInputs.cache
+D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.exe
+D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.pdb
