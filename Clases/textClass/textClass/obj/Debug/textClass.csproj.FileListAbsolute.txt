@@ -5,3 +5,9 @@ D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.csprojAssemblyReferen
 D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.csproj.CoreCompileInputs.cache
 D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.exe
 D:\prueba proyecto\textClass\textClass\obj\Debug\textClass.pdb
+D:\RepoPetherA51\Clases\textClass\textClass\bin\Debug\textClass.exe.config
+D:\RepoPetherA51\Clases\textClass\textClass\bin\Debug\textClass.exe
+D:\RepoPetherA51\Clases\textClass\textClass\bin\Debug\textClass.pdb
+D:\RepoPetherA51\Clases\textClass\textClass\obj\Debug\textClass.csproj.CoreCompileInputs.cache
+D:\RepoPetherA51\Clases\textClass\textClass\obj\Debug\textClass.exe
+D:\RepoPetherA51\Clases\textClass\textClass\obj\Debug\textClass.pdb
