@@ -10,7 +10,7 @@ namespace ClassExercise {
         public int MP;
 
         public Wizard(string name) : base(name) {
-            Console.Write("Creando Wizard");
+            Console.WriteLine("Creando Wizard");
         }
 
         public Wizard(string name, int hp, int MP) : base(name, hp) {
@@ -52,6 +52,8 @@ namespace ClassExercise {
                 break;
 
             }
+
+            ShowActionMenu();
         }
     }
 

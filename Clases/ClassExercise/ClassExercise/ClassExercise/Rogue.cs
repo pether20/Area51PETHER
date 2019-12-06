@@ -10,7 +10,7 @@ namespace ClassExercise {
         public int stamina;
 
         public Rogue(string name) : base(name) {
-            Console.Write("Creando Rogue");
+            Console.WriteLine("Creando Rogue");
         }
 
         public Rogue(string name, int hp) : base(name, hp) {

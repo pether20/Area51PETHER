@@ -49,12 +49,14 @@ namespace ClassExercise {
         }
 
         public virtual void ShowActionMenu() {
+
+            Console.WriteLine("");
             Console.WriteLine("ACTIONS");
             Console.WriteLine("********");
             Console.WriteLine("1 - walk");
             Console.WriteLine("2 - jump");
             Console.WriteLine("3 - attack");
-            Console.WriteLine("          ");
+            
 
             //string action = Console.ReadLine();
             //switch (action) {

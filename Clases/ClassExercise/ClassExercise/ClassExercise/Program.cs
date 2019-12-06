@@ -15,25 +15,26 @@ namespace ClassExercise {
             string type = Console.ReadLine();
             string name = Console.ReadLine();
 
-            Character character = null;
+            Character myCharacter = null;
             switch (type) {
                 case "1":
-                character = new Wizard(name);
+                myCharacter = new Wizard(name);
                 break;
 
                 case "2":
-                character = new Warrior(name);
+                myCharacter = new Warrior(name);
                 break;
 
                 case "3":
-                character = new Rogue(name);
+                myCharacter = new Rogue(name);
                 break;
 
                 default:
                 break;
             }
 
-            character.Attack();
+            if (myCharacter != null)
+                myCharacter.ShowActionMenu();
 
             Console.ReadLine();
 
