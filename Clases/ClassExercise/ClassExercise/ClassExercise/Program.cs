@@ -13,6 +13,7 @@ namespace ClassExercise {
             Console.WriteLine("      3 :Type Rogue");
 
             string type = Console.ReadLine();
+            Console.Write("Name: ");
             string name = Console.ReadLine();
 
             Character myCharacter = null;
