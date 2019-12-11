@@ -1,0 +1,10 @@
+****
+Para mover
+- Crear una variable
+float h = y recibir un valor por teclado con el Input.GetAxisRaw(Horizontal), luego multiplicado por el tiempo en segundos Time.deltatime
+
+ahora, con un transform.Traslate(Vector3.right*h*speed)
+
+crear una variable publica
+public float speed = 1f;
+

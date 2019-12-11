@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: e0db6249cc72d744aba6b376ea561c4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7352341521495280790
+    second: egg-shell-2_0
+  - first:
+      213: 1671752644247392818
+    second: egg-shell-2_1
+  - first:
+      213: -7680928537586095267
+    second: egg-shell-2_2
+  - first:
+      213: 7043053412709320615
+    second: egg-shell-2_3
+  - first:
+      213: 7942520779352215685
+    second: egg-shell-2_4
+  - first:
+      213: 4482530737235203280
+    second: egg-shell-2_5
+  - first:
+      213: 3433601319674103837
+    second: egg-shell-2_6
+  - first:
+      213: 9094912076125965061
+    second: egg-shell-2_7
+  - first:
+      213: 1063248540519525351
+    second: egg-shell-2_8
+  - first:
+      213: -4187209151521747121
+    second: egg-shell-2_9
+  - first:
+      213: -849621395199637060
+    second: egg-shell-2_10
+  - first:
+      213: 7223729123506460384
+    second: egg-shell-2_11
+  - first:
+      213: 9050376494076475156
+    second: egg-shell-2_12
+  - first:
+      213: 7450845614845725076
+    second: egg-shell-2_13
+  - first:
+      213: -8930419609407164899
+    second: egg-shell-2_14
+  - first:
+      213: 5754009730276896530
+    second: egg-shell-2_15
+  - first:
+      213: -4042624467710799832
+    second: egg-shell-2_16
+  - first:
+      213: -8126267110182904789
+    second: egg-shell-2_17
+  - first:
+      213: -3208094181271260255
+    second: egg-shell-2_18
+  - first:
+      213: 818534192781700822
+    second: egg-shell-2_19
+  - first:
+      213: 2302755125372191522
+    second: egg-shell-2_20
+  - first:
+      213: 1728741268157194535
+    second: egg-shell-2_21
+  - first:
+      213: 4045270809071484932
+    second: egg-shell-2_22
+  - first:
+      213: 8221384505085476572
+    second: egg-shell-2_23
+  - first:
+      213: -4115830925876139879
+    second: egg-shell-2_24
+  - first:
+      213: 3821699167867983578
+    second: egg-shell-2_25
+  - first:
+      213: 1778905493558059961
+    second: egg-shell-2_26
+  - first:
+      213: -2852254153303377736
+    second: egg-shell-2_27
+  - first:
+      213: 7434385558684787597
+    second: egg-shell-2_28
+  - first:
+      213: -4402819232212310864
+    second: egg-shell-2_29
+  - first:
+      213: -6487395777163162996
+    second: egg-shell-2_30
+  - first:
+      213: -1155962950346990298
+    second: egg-shell-2_31
+  - first:
+      213: 141271653806620361
+    second: egg-shell-2_32
+  - first:
+      213: 4673514108284434565
+    second: egg-shell-2_33
+  - first:
+      213: -6042576096840180538
+    second: egg-shell-2_34
+  - first:
+      213: 6766307300820168176
+    second: egg-shell-2_35
+  - first:
+      213: -7230417377463554234
+    second: egg-shell-2_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: egg-shell-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4179b3adf677844488b441bb5dec4b8
+      internalID: 7352341521495280790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df03e0b41df7e46a8fcf36c02a24c7
+      internalID: 1671752644247392818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f624301d98889479302aeed484bc90
+      internalID: -7680928537586095267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9db2d57c67d4d46a31ffea3cdc198a
+      internalID: 7043053412709320615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_4
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf80e4ea24c9faa46a98d7422e30f381
+      internalID: 7942520779352215685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 426
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a357ef6c8247764c979bcaa6da0db83
+      internalID: 4482530737235203280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a56baf5626f442ac9630bda3188d6
+      internalID: 3433601319674103837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd5a3be8987aa4981da8e661b52900
+      internalID: 9094912076125965061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f3b30a80ee4b499fd05a7b3e240c5
+      internalID: 1063248540519525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947d6766ec40e4f448a6fd23d960390e
+      internalID: -4187209151521747121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e2f7446b77d641a3130289e739a5e
+      internalID: -849621395199637060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 355
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23a38f4a7789d499bad0074905b8d7
+      internalID: 7223729123506460384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d8cf5f9bcc194cbeb653ededcde6e
+      internalID: 9050376494076475156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26587fd1a94f6d4b9ec5066c54dfdca
+      internalID: 7450845614845725076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_14
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1af1b6528ad144db3030c04c2da465
+      internalID: -8930419609407164899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_15
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b49d49a05461b41816f00aa4187a67
+      internalID: 5754009730276896530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa0acedd263244fbf51400e46f980a
+      internalID: -4042624467710799832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 284
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd03d4e1f4d6e4b8ec5bb2837ad5c2
+      internalID: -8126267110182904789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91080009be416504783af500423f408b
+      internalID: -3208094181271260255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7332cdc4db524ea423c70a7ff5fd4
+      internalID: 818534192781700822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4694dab94ab1664487d8588f7f10ab9
+      internalID: 2302755125372191522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d427ec4bdc60b445b20865796472bb1
+      internalID: 1728741268157194535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a026dda7f240448dd9f414dd13e38
+      internalID: 4045270809071484932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_23
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 213
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3dabb7f1359304394b92e12c3da84a
+      internalID: 8221384505085476572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a3a66080c2fd41a523e8381c1ce28
+      internalID: -4115830925876139879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9442701c431e3b4c947d673fd7b6d21
+      internalID: 3821699167867983578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddcbfcb092c9274f801999b0fe16d22
+      internalID: 1778905493558059961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9bcbe3dad04164fb85d26213ce5ef5
+      internalID: -2852254153303377736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47273b4dbee00046a564368e6a1171c
+      internalID: 7434385558684787597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 142
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548fb4df2af3e9a4c890fbbfcdbfc028
+      internalID: -4402819232212310864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed853dace66c449b70719f571a8f2b
+      internalID: -6487395777163162996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a05d552df1c4d448b33379e8d4aa0e
+      internalID: -1155962950346990298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf63a07249e6343b4c4a9ce1d58410
+      internalID: 141271653806620361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903dc54724df07f43acc7eda4708f940
+      internalID: 4673514108284434565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_34
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e22c1a1ddc7c2f499b005b56abbe252
+      internalID: -6042576096840180538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 71
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d74524b81aec74ba13a67f5d2db907
+      internalID: 6766307300820168176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: egg-shell-2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 107
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50ecf54a14e2b4a83d705e1c155bb7
+      internalID: -7230417377463554234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
